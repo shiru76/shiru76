@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
+![](https://komarev.com/ghpvc/?username=shiru76&color=blue&style=for-the-badge)
